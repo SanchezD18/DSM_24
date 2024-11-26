@@ -1,0 +1,2 @@
+Archivo 2
+Añadimos una segunda linea al segundo archivo.
